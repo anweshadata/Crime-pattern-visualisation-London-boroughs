@@ -2,7 +2,7 @@
 
 A multi-page Power BI dashboard analysing crime patterns across five London boroughs — Newham, Redbridge, Hackney, Tower Hamlets, and Lewisham — built as part of my BSc (Hons) Data Science & AI final year project at the University of East London (First Class, 94%).
 
-> **Note:** The original `.pbix` file is no longer available. This repo showcases the dashboard through screenshots, along with a summary of the data pipeline, analytical approach, and key findings.
+**Note:** The original `.pbix` file is no longer available. This repo showcases the dashboard through screenshots, along with a summary of the data pipeline, analytical approach, and key findings.
 
 ---
 
@@ -107,6 +107,8 @@ The dashboard was evaluated through a structured **Microsoft Forms survey** with
 
 Peer feedback focused on usability and interface design; expert feedback focused more on analytical framing, chart selection, and interpretability — together providing a balanced, complementary evaluation.
 
+The full survey questionnaire and aggregated results are available in [survey-questions.md](survey-questions.md) and [survey-results-summary.md](survey-results-summary.md).
+
 ---
 
 ## Theoretical Framework
@@ -122,6 +124,8 @@ The analysis was grounded in environmental criminology, drawing on:
 
 ```
 ├── README.md
+├── survey-questions.md
+├── survey-results-summary.md
 ├── screenshots/
 │   ├── 01-main-page.png
 │   ├── 02-overview-page.png
